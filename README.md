@@ -40,28 +40,28 @@ The Student Instructor App project is an idea that aims to provide a platform wh
   2.Flutter
 
 ## DEPENDENCIE'S
-  1.cloud_firestore: ^4.4.5
-  2.firebase_auth: ^4.3.0
-  3.firebase_storage: ^11.0.16
-  4.firebase_messaging: ^14.3.0
-  5.cloud_functions: ^4.0.13
-  6.firebase_core: ^2.8.0
-  7.firebase_analytics: ^10.1.6
-  8.logger: ^1.4.0
-  9.flutter_hooks: ^0.18.3
-  10.hooks_riverpod: ^1.0.4
-  11.flutter_riverpod: ^1.0.4
-  12.url_strategy: ^0.2.0
-  13.url_launcher: ^6.1.10
-  14.flutter_svg: ^1.0.3
-  15.string_to_color: ^2.0.0
-  16.google_fonts: ^5.1.0
-  17.responsive_builder: ^0.5.1
-  18.image_picker: ^0.8.6
-  19.image_picker_web: ^3.0.0
-  20.youtube_player_flutter: ^8.1.0
-  21.visibility_detector: ^0.3.3
-  22.google_sign_in: ^6.0.2
-  23.sign_button: ^2.0.4
+ 1.cloud_firestore: ^4.4.5
+ 2.firebase_auth: ^4.3.0
+ 3.firebase_storage: ^11.0.16
+ 4.firebase_messaging: ^14.3.0
+ 5.cloud_functions: ^4.0.13
+ 6.firebase_core: ^2.8.0
+ 7.firebase_analytics: ^10.1.6
+ 8.logger: ^1.4.0
+ 9.flutter_hooks: ^0.18.3
+ 10.hooks_riverpod: ^1.0.4
+ 11.flutter_riverpod: ^1.0.4
+ 12.url_strategy: ^0.2.0
+ 13.url_launcher: ^6.1.10
+ 14.flutter_svg: ^1.0.3
+ 15.string_to_color: ^2.0.0
+ 16.google_fonts: ^5.1.0
+ 17.responsive_builder: ^0.5.1
+ 18.image_picker: ^0.8.6
+ 19.image_picker_web: ^3.0.0
+ 20.youtube_player_flutter: ^8.1.0
+ 21.visibility_detector: ^0.3.3
+ 22.google_sign_in: ^6.0.2
+ 23.sign_button: ^2.0.4
     
 
