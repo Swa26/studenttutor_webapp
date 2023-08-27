@@ -16,8 +16,8 @@ The Student Instructor App project is an idea that aims to provide a platform wh
     - Tutor
     
   * Student can Login & Logout And Also Use GOOGLE SignIn
-  * 
-    **- Validations For Custom Mail ID For Student is "@gmail.com"**
+    
+    **Validations For Custom Mail ID For Student is "@gmail.com"**
     
   * After Login He/She Can View And Enroll into Course
     
@@ -25,7 +25,7 @@ The Student Instructor App project is an idea that aims to provide a platform wh
 
   * Tutor can Login & Logout
     
-    **- Validations For Custom Mail ID For Tutor is "@tatadigital.com"**
+    **Validations For Custom Mail ID For Tutor is "@tatadigital.com"**
     
   * After Login He/She Can 
   
