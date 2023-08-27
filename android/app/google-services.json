@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153432537530",
+    "project_id": "studenttutorapp-4dbf1",
+    "storage_bucket": "studenttutorapp-4dbf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153432537530:android:79c0a2179e3577d1854583",
+        "android_client_info": {
+          "package_name": "com.example.studenttutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153432537530-j5p35fm2ok88po75k9spqg0h1tguki4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8BPl0R7cQjeRI0Kp19apIbvlZODFcksQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153432537530-j5p35fm2ok88po75k9spqg0h1tguki4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
