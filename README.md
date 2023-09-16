@@ -135,4 +135,3 @@ It Types of 2 Users
 **Swanand Joshi.**
 
 ## Thank You 
-![image](https://github.com/Swa26/studenttutor_webapp/assets/129668745/62ca7190-71b5-40a1-a17c-aab4cbeb254f)
